@@ -1,5 +1,5 @@
 # Tarmander
-Tardmander - Silly Javascript game to pass time
+Tarmander - Silly Javascript game to pass time
 
 Play at:
 
